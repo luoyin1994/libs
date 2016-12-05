@@ -77,3 +77,5 @@ function jadeStrToHtml(str) {
         return classNamesHtmlStr = `class="${classNames.join(' ')}"`
     }
 }
+
+console.log('nihoa')
